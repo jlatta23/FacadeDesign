@@ -1,5 +1,5 @@
-# Facade Design Tool - JR Latta
-3D Facade Design Tool - From Idea to Execution. Realtime Rendering, Material Optimizations, Parametric Pattern Creation, Auto Generate 3D Revit Object
+# Facade Design Tool - JR Latta Project Showcase
+3D Facade Design Tool. Realtime Rendering, Material Optimizations, Parametric Pattern Creation, Auto Generate 3D Revit Object
 This is a page to discuss the design tool I built for a facade fabrication company.
 
 Demo Version: https://app.designflows.com/
