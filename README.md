@@ -1,6 +1,5 @@
-# Facade Design Tool - JR Latta Project Showcase
-3D Facade Design Tool. Realtime Rendering, Material Optimizations, Parametric Pattern Creation, Auto Generate 3D Revit Object
-This is a page to discuss the design tool I built for a facade fabrication company.
+# Facade Design Tool - Project Showcase
+3D Facade Design Tool. This is a page to discuss the design tool I built for a facade fabrication company.
 
 Demo Version: https://app.designflows.com/
 
@@ -17,9 +16,7 @@ The current workflow for building facade design is:
 6) Architect uses this to adjust their design
 7) Repeat until the design matches aesthetics and price
 
-My Facade Design Tool gives architects the power to design this.
-* Architect designs their project using design tool
-
+This Facade Design Tool gives architects the power to do this all at their own convenience.
 
 ## Parametric Pattern Engine
 
@@ -40,6 +37,8 @@ This becomes a generative design process when architects iterate on their facade
 ## Realtime Rendering - ThreeJS
 
 ThreeJS is a Javascript library for using Physically Based Rendering experiences. This design tool provides an interactive 3D environment with realistic materials.
+
+By combining normal maps, AO maps, bump maps, with various lighting sources, we can achieve a realistic rendering of the manufacturer's facade material. The architect can zoom in, rotate, and pan around to see it from different angles.
 
 ![CoverPage](https://user-images.githubusercontent.com/90107864/214192717-2a647e37-1302-49d4-b9be-7f2e49eed6b8.jpg)
 
