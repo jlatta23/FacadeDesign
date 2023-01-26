@@ -3,7 +3,11 @@
 
 Demo Version: https://app.designflows.com/
 
-- [Parametric Pattern Engine](#para-pattern)
+- [Background](#background)
+- [Parametric Pattern Engine](#parametric-pattern-engine)
+- [Material Optimizations - Genetic Algorithm](#material-optimizations---genetic-algorithm)
+- [Realtime Rendering](#realtime-rendering)
+- [Automatic Revit Model Generation](#automatic-revit-model-generation)
 
 # Background
 The current way architects design facades is cumbersome and involves a lot of back and forth email communication. The current workflow for building facade design is some variant of:
@@ -56,7 +60,7 @@ We can visually see how the algorithm placed the panels inside the manufacturer 
 
 ### How does the optimization algorithm work?
 
-## Realtime Rendering - ThreeJS
+# Realtime Rendering
 
 ThreeJS is a Javascript library for using Physically Based Rendering experiences. This design tool provides an interactive 3D environment with realistic materials.
 
@@ -64,7 +68,7 @@ By combining normal maps, AO maps, bump maps, with various lighting sources, we 
 
 ![CoverPage](https://user-images.githubusercontent.com/90107864/214192717-2a647e37-1302-49d4-b9be-7f2e49eed6b8.jpg)
 
-## Automatic 3D Revit Model Generation
+# Automatic Revit Model Generation
 
 Revit is the modeling tool of choice of over 95% of architecture firms in the US. While it is a great tool for documenation, it is very cumbersome to create advanced models and layouts. This design tool automatically generates a Revit model once the architect has finalized their design.
 
