@@ -1,5 +1,5 @@
 # Facade Design Tool - Project Showcase
-3D Facade Design Tool. I discuss the design tool I built for a facade fabrication company.
+3D Facade Design Tool. I discuss the design tool I built for a facade fabrication company. This live version has been used on over 100 projects by architects seeking to balance aesthetics with environmental & cost concerns.
 
 Demo Version: https://app.designflows.com/
 
