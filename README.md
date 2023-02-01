@@ -16,10 +16,10 @@ Demo Version: https://app.designflows.com/
 The current way architects design facades is cumbersome and involves a lot of back and forth email communication. The current workflow for building facade design is some variant of:
 
 1) Architect sketches facade elevations in CAD / BIM modeling software (1-4 hours)
-2) Architect talks to manufacturer about their specific project (Teams and phone calls)
+2) Architect talks to manufacturer about their specific project (phone and Teams calls)
 3) Architect sends CAD file and Fabricator calculates material optimization and pricing estimate (1 week)
 4) Architect uses this to adjust his/her design
-5) Repeat until the design matches aesthetics and price
+5) Repeat until the design matches aesthetics and price (weeks to months)
 
 This Facade Design Tool gives architects the power to do this all at their own convenience, leveraging the concepts of generative design.
 
